@@ -7,3 +7,5 @@ Such a system can find use in a wide variety of application areas like interacti
 In this study we attempt to detect underlying emotions in recorded speech by analysing the acoustic features of the audio data of recordings.
 
 [Group66_SER_Project.pdf](https://github.com/AbhishekG-1plus/SpeechEmotionRecognition/files/9090828/Group66_SER_Project.pdf)
+
+https://github.com/AbhishekG-1plus/SpeechEmotionRecognition/blob/69930667b0b9ed811f0928e2b2877ffbc424a1de/SpeechEmotionReecognition_Paper.pdf
