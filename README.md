@@ -5,3 +5,5 @@ As human beings speech is amongst the most natural way to express ourselves. As 
 In this project we define a SER system as a collection of methodologies that process and classify speech signals to detect emotions embedded in them. 
 Such a system can find use in a wide variety of application areas like interactive voice based-assistant or caller-agent conversation analysis. 
 In this study we attempt to detect underlying emotions in recorded speech by analysing the acoustic features of the audio data of recordings.
+
+[Group66_SER_Project.pdf](https://github.com/AbhishekG-1plus/SpeechEmotionRecognition/files/9090828/Group66_SER_Project.pdf)
